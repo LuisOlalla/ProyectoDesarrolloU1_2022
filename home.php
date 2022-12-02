@@ -59,7 +59,7 @@ body>.container {
                 </ul> 
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.php" class="btn btn-primary btn-sm">Iniciar Sesion</a>
+                        <a href="login.php" class="btn btn-primary btn-sm">Iniciar Sesion</a>
                     </li>
                 </ul>
             </div>
