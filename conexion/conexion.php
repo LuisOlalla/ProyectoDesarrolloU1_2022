@@ -5,7 +5,7 @@ class Database{
 	private $host  = 'localhost';
     private $user  = 'root';
     private $password   = "";
-    private $database  = "fos_db"; 
+    private $database  = "Proyecto_U1"; 
     
     public function getConnection(){		
 		$conn = new mysqli($this->host, $this->user, $this->password, $this->database);
